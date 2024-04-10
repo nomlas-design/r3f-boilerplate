@@ -13,7 +13,6 @@
     "@react-three/drei": "^9.105.3",
     "@react-three/fiber": "^8.16.1",
     "@vitejs/plugin-react": "^4.2.1",
-    "gsap": "^3.12.5",
     "leva": "^0.9.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

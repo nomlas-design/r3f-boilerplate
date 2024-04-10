@@ -1,24 +1,16 @@
 @import './variables.scss';
 
-// css boiler
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
-  background-color: $dark;
+  background-color: $light;
 }
 
 #root {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
 }
 
 canvas {
   display: block;
+  height: 100vh;
 }
